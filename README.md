@@ -4,7 +4,7 @@ Features User-friendly Interface: Intuitive design for seamless navigation and e
 
 Node.js Installation Clone the repository:
 
-bash Copy code git clone https://github.com/Faizanamd/Job_Finder_Website.git Navigate to the project directory:
+bash Copy code git clone [https://github.com/Faizanamd/Job_Finder_Website.git](https://github.com/Faizanamd/Job_Finder_Post_Website) Navigate to the project directory:
 
 bash Copy code cd Job_Finder_Website Install dependencies:
 
