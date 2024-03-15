@@ -65,6 +65,7 @@ class ProductController {
   }
 
   postNewJob(req, res) {
+    console.log(req.body);
     const { jobCat, jobDesign, location, companyName, salary, numberOfOpeningins, skillsReq, date } = req.body;
     const currentTime = JobModel.getCurrentTime();
     const salaryObject = {

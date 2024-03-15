@@ -14,8 +14,7 @@ export default class JobModel {
         this.applyDate = applyDate;
         this.numberOfOpenings = numberOfOpenings;
         this.applicants = applicants,
-
-            this.postedTime = postedTime;
+        this.postedTime = postedTime;
     }
 
     static addJob(active, techType, orgName, tech, location, mode, salary, skills, applyDate, numberOfOpenings, applicants, postedTime) {
